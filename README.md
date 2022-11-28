@@ -7,5 +7,5 @@ Contraction Mapping, the elimination of personalised stopwords and URLs, tokeniz
 
 
 Descrimler: If you prefer something other than Python/R, please feel free to use that coding language.
-The datasets shared are from free open data sources. We are not affiliated with Flipkart or Amazon. The analysis submitted by you
+The datasets shared are from free open data sources. We are not affiliated with Flipkart. The analysis submitted by you
 will be used only for evaluation of your analytical skills and will not be published or shared anywhere.
